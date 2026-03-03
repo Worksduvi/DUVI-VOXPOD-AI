@@ -1,0 +1,7 @@
+{
+  "name": "DuviVox & DuviPod Pro",
+  "description": "Professional TTS and Podcast Studio with AI-powered research and productivity tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
